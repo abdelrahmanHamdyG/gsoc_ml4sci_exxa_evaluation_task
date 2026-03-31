@@ -1,6 +1,6 @@
 # EXXA Evaluation – ML4Sci (GSoC 2026)
 
-This repository contains my submission for the EXXA evaluation.
+This repository contains my submission for the EXXA2 Project evaluation.
 
 ---
 
